@@ -1114,10 +1114,17 @@ section.lazy-placeholder:after {
 .cid-s51wJbyTzq {
   background-image: url("../../../assets/images/josue-aguazia-ov2dm7cwoy0-unsplash-compressor.jpg");
 }
-.cid-s57eZ1AL2B {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-s5uQt1jdXK {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #6670a9);
+}
+.cid-s5uQt1jdXK .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-s5uQt1jdXK .social-list a:focus {
+  text-decoration: none;
 }
 .cid-s51CSeprGm {
   padding-top: 0px;
@@ -1220,7 +1227,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s51P9w0vba {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 45px;
   background-color: #c30800;
 }
@@ -1440,7 +1447,7 @@ section.lazy-placeholder:after {
 .cid-s5sFzIkNhJ {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #000000;
+  background-color: #080241;
 }
 .cid-s5sFzIkNhJ .row-links {
   width: 100%;
@@ -1969,7 +1976,7 @@ section.lazy-placeholder:after {
 .cid-s5sFzIkNhJ {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #000000;
+  background-color: #080241;
 }
 .cid-s5sFzIkNhJ .row-links {
   width: 100%;
